@@ -15,7 +15,7 @@
 ------------------------------------------------------------
 ## INSTALLATION:
 1. Install **cython**
-2. Install **pytorch(1.1)**
+2. Install **pytorch (1.1)**
 3. Install **mmcv**
 ```
 git clone https://github.com/open-mmlab/mmcv.git
