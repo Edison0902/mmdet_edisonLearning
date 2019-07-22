@@ -14,11 +14,15 @@ Learning use for mmdetection
 1. Install cython
 2. Install pytorch
 3. Install mmcv
+'''
         git clone https://github.com/open-mmlab/mmcv.git
         cd mmcv
         pip install .
+'''
 4. Install mmdet
+'''
         cd mmdetection
         ./compile.sh
         python setup.py install
+'''
 5. Install cocoapi
