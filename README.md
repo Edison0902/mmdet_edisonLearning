@@ -1,5 +1,8 @@
 # mmdet_edisonLearning
-Learning use for mmdetection
+>> **Learning use for mmdetection**
+## Changes:
+1. Add backbone files 'DenseNet.py'
+2. Add a customize dataset class 'ZMVISION_BOAT' 
 
 ## NOTES:
 1. gcc **4.9**
