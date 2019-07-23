@@ -25,7 +25,8 @@ pip install .
 4. Install **mmdet**
 ```
 cd mmdetection
-./compile.sh
+sudo chmod 777 ./compile.sh
+sudo sh ./compile.sh
 python setup.py install
 ```
 5. Install **cocoapi**
